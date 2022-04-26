@@ -1,4 +1,5 @@
-[
+{
+ "luchadores" : [
 	{
 	"nombre": "Son Goku",
 	"ataque": 79,
@@ -79,4 +80,10 @@
 	"vida": 100,
 	"imagen": "http://exprimeandroid.neocities.org/pelearsus/img/10.png"
 	}
-]
+],
+	"escenarios" : [
+		{"id": 1, "escenario": "Namek"},
+		{"id": 2, "escenario": "Tierra"},
+		{"id": 3, "escenario": "Luna"}
+	]
+}
